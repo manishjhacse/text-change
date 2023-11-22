@@ -1,4 +1,4 @@
-# Text Transformer Website
+# Text Change 
 
 Welcome to the Text Transformer website! This web application allows you to transform text in various ways, such as converting it to lowercase, uppercase, capitalizing the first letter, and removing extra spaces. You can easily copy the transformed text. Additionally, the website supports both dark mode and light mode, allowing you to choose a theme that suits your preference.
 
